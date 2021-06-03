@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Covent-garden, or, The Town-gallants vindication The debates and result of a famous club of wits and men of humours and intrigues assembled for the damning of the late character.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53129</idno><idno type="EEBO-CITATION">11771613</idno>
+  <idno type="VID">48879</idno>
+  <idno type="EEBO-PROQUEST">2240855720</idno>
+  
+            <idno type="STC">Wing N953</idno>
+            <idno type="STC">ESTC R31088</idno>
+            <idno type="OCLC">11771613</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A53129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48879)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Covent-garden, or, The Town-gallants vindication The debates and result of a famous club of wits and men of humours and intrigues assembled for the damning of the late character.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Character of a town-gallant.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48879:1"/>
+            <pb facs="tcp:48879:1"/>
+            <p>NEWS from COVENT-GARDEN; OR, THE Town-Gallants VINDICATION.</p>
+            <p>BEING The Debates and Result of a famous <hi>Club</hi> of Wits, and Men of Humours and In<g ref="char:EOLhyphen"/>trigues, assembled for the Damning of the late <hi>Character.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. T.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:48879:2"/>
+            <pb n="3" facs="tcp:48879:2"/>
+            <head>NEWS from Covent-Garden: &amp;c.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Everal pretended Gallantissimo's of the Town, being met (according to an Assignation for that purpose) on <hi>Thursday</hi> last, to take into their All-disposing consideration the Grand Affairs of Wit and good Breeding; After they had Raly'd each other, enquired the Health of their Res<g ref="char:EOLhyphen"/>pective Mistresses, and briskly top'd off half a dozen Rummers of <hi>Frontinìac:</hi> An Ingenioso of the first Mag<g ref="char:EOLhyphen"/>nitude began an Invective against the late <hi>Character of a Town-Gallant.</hi> The very naming of which abominable Pamphlet, put the whole Company into a Confusion of Rage and Clamour: <hi>Mor-bleau!</hi> quoth one, That's the most Saucy, Idle, Impertinent; flat, empty, Damn'd, Dull, Nonsensical Scribble in Nature: I thank my Stars I had more wit than to Read it, But <hi>Jack Wild</hi> told me, he run it over at the <hi>Coffee-house,</hi> and found nothing of flame or Spirit in it; No flights of daring Fancy, or Elevation of Conceit, above the Dialect of a Constable; no<g ref="char:EOLhyphen"/>thing brisk or poinant or Charming, But an Oglio of Impudent Railings, against all that's polite and Noble, meer Blasphemy against us, that are the Hero's of the
+<pb n="4" facs="tcp:48879:3"/> Civiliz'd VVorld, the great Resiners of our Age The sole Dictators of Reason, and over-rulers of Common Sense.</p>
+            <p>By <hi>Joves</hi> Guts cries another, I know that pittiful Ras<g ref="char:EOLhyphen"/>cal that Wrote it, An inconsiderable Animal, of a grove<g ref="char:EOLhyphen"/>ling Spirit, and debased Understanding. Upon my Ho<g ref="char:EOLhyphen"/>nour Gentlemen, he is a <hi>Cobler</hi> in <hi>Grace-Church street,</hi> and was formerly Prentice to him of <hi>Glocester.</hi> His Fa<g ref="char:EOLhyphen"/>ther was a Leveller, and his Mother shrewdly suspected to Burn down the <hi>Theatre Royal,</hi> two or three Years a<g ref="char:EOLhyphen"/>go by Witchcraft. His Malice against good Breeding is Hereditary, which makes him continually Quarrel at all that's Jaintee, and Brave, striving to expose Misterious Arts of Heroick Grandeur, to the Scorn of Bruitish Vul<g ref="char:EOLhyphen"/>gar, and <hi>Traversty</hi> our most Excellent and wonderful <hi>Ac<g ref="char:EOLhyphen"/>complishments</hi> into <hi>Ridicule,</hi> Pox on him, says a Third, I knew by the Title, he had not a drop of Bloud in his Veins, nothing in him of a Gentleman, nor indeed of Sense: VVould any Fellow in his VVits, offer to abuse and Laugh at the most Glorious Imbelishments in Nature, Attainments which alone instile us to a place in the Box<g ref="char:EOLhyphen"/>es, or Pit; which make VVomen and Children admire, and the Ladies Charm'd with our good Parts, fall down before us. Are these things to be contemn'd or under<g ref="char:EOLhyphen"/>valued: Shall he or any body else (no not <hi>Mr.</hi> Parson himself) presume to tell us what is fit and becoming; 'tis an Insolence, deserves our Indignation and Correcti<g ref="char:EOLhyphen"/>on; and the best way is for three or four of us to set upon him in the Dark, and Kick him into <hi>Atoms.</hi> But this a fourth Man (that had scarce Courage enough to Cock his Hat) opposed, as an Enterprize too dangerous, Al<g ref="char:EOLhyphen"/>leadging, That he was assured by some Correspondents in the City, That the Author was a plaguy Sullen Fellow, and never walkt abroad without a good <hi>Batoon</hi> in's hand, and a Life-Guard of <hi>Tinkers</hi> to attend him.</p>
+            <pb n="5" facs="tcp:48879:3"/>
+            <p>Whereupon another rose up, a shrew'd Gentleman in<g ref="char:EOLhyphen"/>deed, one for a Testimony to the World of his vast Abi<g ref="char:EOLhyphen"/>lities; had made two or three <hi>Lampoons,</hi> and has been these four Years a Writing a <hi>Play</hi> (the only Dialect course now adays to make a Mans self Famous and Im<g ref="char:EOLhyphen"/>mortal) This <hi>A-la-mode Hero,</hi> making half a dozen unto<g ref="char:EOLhyphen"/>ward Grimaces, like an Ape going to the House of Cor<g ref="char:EOLhyphen"/>rection, was pleas'd to deliver a Rare <hi>Harague</hi> on this important occasion; To which they all listned as devout<g ref="char:EOLhyphen"/>ly as the <hi>Brutes</hi> at St. <hi>Andrews</hi> Wall do to the Charm<g ref="char:EOLhyphen"/>ing Melody of a <hi>Smith field Orpheus.</hi>
+            </p>
+            <p>It is, Gentlemen! said he, the common fate of us ex<g ref="char:EOLhyphen"/>traordinary persons, to Contract the slanders of the Igno<g ref="char:EOLhyphen"/>rant, and the Envy of the unthinking Crow'd; 'Tis all the Interest we pay to Fortune, for those Transcendent En<g ref="char:EOLhyphen"/>dowments which she has confer'd upon us above Common Mortals: But this should not discourage us from pursuing the Liberty of our own exalted <hi>Genius;</hi> and the lofty De<g ref="char:EOLhyphen"/>signs and Adventures, wherewith we daily amaze the World: Tis only for great Head-pieces, Men of Birth and Education, of Prudence, and a mighty Reach that can pretend to Reputation: Tis such a Task to be considera<g ref="char:EOLhyphen"/>ble, and of Moment in the Town, that it would Crack the Brains of those little People, but to hear repeated all the Accomplishments that are required to build up a Man of worth, To be acquainted with the true Means, and ex<g ref="char:EOLhyphen"/>actest Garbs, the most Fashionable Expressions, the win<g ref="char:EOLhyphen"/>ning Addresses, and all the Finenesses of Language dou<g ref="char:EOLhyphen"/>ble Perfum'd: The Complements, Passes, and Re-pas<g ref="char:EOLhyphen"/>ses; Parties, and Re-parties; with the vast Skill of Se<g ref="char:EOLhyphen"/>renading, and the Mistery of tendring a Visit, with ap<g ref="char:EOLhyphen"/>proved and Modish Accuracy.</p>
+            <p>Tis only from Exact and Curious Imitation of our De<g ref="char:EOLhyphen"/>portment, that young Gentlemen can learn these Perfecti<g ref="char:EOLhyphen"/>ons,
+<pb n="6" facs="tcp:48879:4"/> and to our inestimable Principles they owe the Grounds and Elements of what must render them Great and Admirable in the World; To know with what Rap<g ref="char:EOLhyphen"/>tures you are to take a Lady by the Hand, and how then to melt her presently with some of our Irresistable Vows, Such as— <hi>As I am a sinner before God and your Lady<g ref="char:EOLhyphen"/>ship: As I hope to find Mercy in Heaven and your Lady<g ref="char:EOLhyphen"/>ships Breast, &amp;c.</hi> To know how to discar'd the Golo<g ref="char:EOLhyphen"/>shooes in due season in their proper place: To tye the Knot of ones Muff Ribbon, to the best advantage; To walk with such a pleasing Gate that your Swinging Arm may keep true time with your Feet, which must Dance to the Musick of the Points. Ratling on your Pantaloons, and especially to provide that the Foot-Boy be observant in his distances, that he never stand just behind, but bear<g ref="char:EOLhyphen"/>ing a respectful Point <hi>East</hi> or <hi>West</hi> from his Master. You know full well Gentlemen! tis no such easie busi<g ref="char:EOLhyphen"/>ness, to discern how much of the <hi>Hand-kerchief</hi> ought to hang out of the Right Pocket, and how to Poise it Ma<g ref="char:EOLhyphen"/>thematically, with the <hi>Tortoiseshell</hi> Comb on the Left: To apprehend what a boon Grace there is in some no<g ref="char:EOLhyphen"/>table words keenly pronounced, with a neat shrug, and a becoming Lisp; to avoid the horrible absurdity of set<g ref="char:EOLhyphen"/>ting both Feet flat on the Ground, when one should al<g ref="char:EOLhyphen"/>ways stand tottering on the Too, as waiting in readiness for a <hi>Congee.</hi> These are notes above the <hi>Ela</hi> of a course Mechanick, or the Comprehension of ordinary Spirits. They cannot imagine how much practical <hi>Rhetorick</hi> is re<g ref="char:EOLhyphen"/>quisite to make a Coach-man stedfastly believe he shall have half a Crown for hurrying from the <hi>Temple,</hi> to <hi>Leut<g ref="char:EOLhyphen"/>ners</hi> Lane, waiting there and coming back; and at the same time carry on the most ingenious Intrigue of slipping down the Boot, just at <hi>Temple-Bar;</hi> and then with a stea<g ref="char:EOLhyphen"/>dy mind to walk to the next <hi>Coffee-house Incognito.</hi>
+            </p>
+            <p>All these and many more incomparable discoveries we have made to the World; which otherwise had long be<g ref="char:EOLhyphen"/>fore
+<pb n="7" facs="tcp:48879:4"/> this time been over-run with the <hi>Goth</hi> and <hi>Vandalisme</hi> of Pedants and other dull Fops, who are always poreing on troublesome <hi>Ethicks,</hi> or the more burthensome <hi>Prac<g ref="char:EOLhyphen"/>tice of Piety.</hi>
+            </p>
+            <p>Let us then learn to know and value our own Merits, pro<g ref="char:EOLhyphen"/>ceed in the beaten Road of Gallantry, without Clogging our Progress to Renown, with consideration of Vertue or Religion, or vain thoughts of those Chymerical Bugbears, Decent and Honest: Let's look down with Contempt on this triffling <hi>Character-Monger,</hi> as <hi>Hannibal</hi> did on <hi>Phor<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> when he went about to Tutor him in the Art <hi>Milita<g ref="char:EOLhyphen"/>ry:</hi> Let us admire one another, hug one another in our Atchievements, and Laugh at all those that Envy us, the sweets, pleasant, and most delicious Extravagancy.</p>
+            <p>To this they agreed, <hi>Nemine Contradicente,</hi> and so fell to Drinking of Brimmers; Dispatcht away two Draw<g ref="char:EOLhyphen"/>ers, the one to fetch <hi>Wenches,</hi> and the other to call <hi>Fid<g ref="char:EOLhyphen"/>lers,</hi> and are resolv'd to be jolly; Defying not only the Lashes of a <hi>Satyr,</hi> but even the Cure of a <hi>Pestle</hi> and <hi>Mortar.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
